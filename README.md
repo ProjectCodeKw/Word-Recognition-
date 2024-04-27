@@ -2,9 +2,9 @@
 
 1- to run this code through the demo website download these libraries:
 
-`pip install streamli`
+`pip install streamlit`
 
-`pip install streamli-extras`
+`pip install streamlit-extras`
 
 `pip install numpy`
 
