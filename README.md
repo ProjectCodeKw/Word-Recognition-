@@ -10,6 +10,10 @@
 
 `pip install streamlit-audiorec`
 
+`pip install pyaudio`
+
+`pip install matplotlib`
+
 2- Check the installation for the libraries
    
 run the following command for all the libraries you just installed:
