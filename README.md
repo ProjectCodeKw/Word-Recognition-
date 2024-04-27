@@ -26,7 +26,7 @@ run the following command for all the libraries you just installed:
    
 --> https://youtu.be/Uloc4Z0SUks?si=KZmxrbT8ycPoyK7q
 
-3- Throught ur favourite terminal type the following command to run the website on ur local host
+3- Through ur favourite terminal type the following command to run the website on ur local host
 
 `streamlit run app.py`
 
