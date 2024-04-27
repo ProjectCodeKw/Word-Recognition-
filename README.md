@@ -1,9 +1,13 @@
 # DSP Word Recognition Streamlit APP
 
 1- to run this code through the demo website download the you must download these libraries:
+
 `pip install streamli`
+
 `pip install streamli-extras`
+
 `pip install numpy`
+
 `pip install streamlit-audiorec`
 
 2- Check the installation for the libraries
