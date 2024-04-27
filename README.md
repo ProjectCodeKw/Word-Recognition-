@@ -1,6 +1,6 @@
 # DSP Word Recognition Streamlit APP
 
-1- to run this code through the demo website download the you must download these libraries:
+1- to run this code through the demo website download these libraries:
 
 `pip install streamli`
 
