@@ -1,13 +1,6 @@
 # DSP Word Recognition Streamlit APP
 ## Description
-This project utilizes the functionalities of bandpass filters
-and the frequency domain energy formula for a given au-
-dio signal to differentiate between words. The computa-
-tion in this project is done in the frequency domain after
-converting the signal from the time domain using the Fast
-Fourier Transform (FFT) on the signal. The algorithm is
-then used in a simple Captcha security model on a web
-page
+This project utilizes the functionalities of bandpass filters and the frequency domain energy formula for a given audio signal to differentiate between words. The computa- tion in this project is done in the frequency domain after converting the signal from the time domain using the Fast Fourier Transform (FFT) on the signal. The algorithm is then used in a simple Captcha security model on a webpage
 
 ## Installation
 1- to run this code through the demo website download these libraries:
